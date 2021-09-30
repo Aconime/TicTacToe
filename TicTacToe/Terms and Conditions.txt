@@ -1,0 +1,8 @@
+TERMS AND CONDITIONS
+- This is a ALPHA PREVIEW (1.0.0.0) version of the application and can glitch or display bugs, if so, you are responsible of informing the "developer".
+
+- You are not allowed to distribute, share or decompile "TicTacToe Game", if done so you are liable for copyright theft. There is a reason you have been picked for this test.
+
+- Once the task has been completed you have provided your feedback and report (if any) then you are required to dispose of the application/game/program/software in whole.
+
+- If you run and use the application/game/program/software you agree to these terms and conditions.

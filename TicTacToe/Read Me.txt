@@ -1,0 +1,6 @@
+HOW TO USE
+1. Open "TicTacToe Game"
+2. Go to settings if you would like to change the default names and symbols
+3. Click on Player vs Player and enjoy!
+
+- Player vs Computer and Computer vs Computer coming soon!
